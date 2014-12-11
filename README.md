@@ -57,11 +57,11 @@ What does your Brigade want to get done this year? If you’re seeking support a
 
 * Create a [Maptime](http://maptime.io/) group
 
-8 Work with city to improve open data portal quality and data release
+* 8 Work with city to improve open data portal quality and data release
 
 ## Strategy & Tactics
 
-* What strategy and tactics will you use to execute on your goals for the year? A timeline can be a useful way to demonstrate this.
+What strategy and tactics will you use to execute on your goals for the year? A timeline can be a useful way to demonstrate this.
 
 * More aggressively build membership through engaging projects like Louisville Minecraft & Louisville Maptime
 
