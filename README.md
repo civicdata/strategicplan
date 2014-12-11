@@ -1,7 +1,7 @@
 
-**Civic Data Alliance - Louisville KY**
+# Civic Data Alliance - Louisville KY
 
-**Strategic Plan, 2015**
+# Strategic Plan, 2015
 
 # Who We Are
 
